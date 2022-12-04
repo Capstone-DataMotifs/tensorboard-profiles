@@ -2,7 +2,7 @@
 
 ## Profiles
 - CNN (for MNIST)
-- K-Means (for MNIST)
+- K-Means (weighted; for MNIST)
 - KNN (for MNIST)
 - ResNet (for CIFAR-10)
 
@@ -12,3 +12,4 @@
 - MatMul
 - MaxPool
 - ReLU
+- Sigmoid
